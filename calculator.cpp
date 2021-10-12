@@ -14,3 +14,11 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+
+/*
+* Ostrovska Bohdana
+* IV-93
+* laboratory work 1
+* https://github.com/Danoonka
+* 12.10.2021
+*/
